@@ -1,4 +1,4 @@
-[![James Michael](https://mexhjsdibsoshbepazwt.supabase.co/storage/v1/object/public/portfolio25//jm-portfolio25.png)](https://jamesmichael.dev)
+[![James Michael](https://mexhjsdibsoshbepazwt.supabase.co/storage/v1/object/public/portfolio25//jm-portfolio25-logo.png)](https://jamesmichael.dev)
 
 ## Hello, I'm James! 👋
 
